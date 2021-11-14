@@ -1,0 +1,10 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "namesList".(‚åûŠùÿÿÿÿ8İæÆˆÁ/
+P
+java:S1481".Remove this unused "namesList" local variable.(‚åûŠùÿÿÿÿ8áæÆˆÁ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÃ¤¦üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÃ¤¦üÿÿÿÿ
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ãæÆˆÁ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡øâûÿÿÿÿ

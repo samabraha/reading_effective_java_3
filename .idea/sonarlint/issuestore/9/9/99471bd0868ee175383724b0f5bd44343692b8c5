@@ -1,0 +1,6 @@
+
+C
+java:S1068 "(Remove this unused "size" private field.(ØªÂÏøÿÿÿÿ
+E
+java:S1068;"/Remove this unused "sauceInside" private field.(ÉôŒ‚
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŸ§üÿÿÿÿ

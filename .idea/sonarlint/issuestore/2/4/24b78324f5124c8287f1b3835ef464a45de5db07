@@ -1,0 +1,17 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(‹Å•
+V	java:S125!"<This block of commented-out lines of code should be removed.(¦—Øéúÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ÜĞƒÇúÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(â‡—­
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(©ÅØøüÿÿÿÿ
+V	java:S1257"<This block of commented-out lines of code should be removed.(¦—Øéúÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(»•ëÊ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¿¥¬úÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8èéÜæ¿/
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8èéÜæ¿/
+`
+java:S1128">Remove this unused import 'java.util.stream.Collectors.toMap'.(£êéÂúÿÿÿÿ8ééÜæ¿/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë›œ

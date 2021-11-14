@@ -1,0 +1,26 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "TEN_CENTS".(âÍ¯âÿÿÿÿÿ8›ª¬ìÆ/
+P
+java:S1481".Remove this unused "TEN_CENTS" local variable.(âÍ¯âÿÿÿÿÿ8†«¬ìÆ/
+X	java:S125"<This block of commented-out lines of code should be removed.(ŒŠª8†«¬ìÆ/
+X	java:S125"<This block of commented-out lines of code should be removed.(•¼»æ8†«¬ìÆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶îÏüÿÿÿÿ8‡«¬ìÆ/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(æñ™Â8‹«¬ìÆ/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Ÿ„ß‚8µ«¬ìÆ/
+;
+java:S2676>"Use the original value instead.(•ã±8·«¬ìÆ/
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8¸«¬ìÆ/
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8¹«¬ìÆ/
+X
+java:S1128";Remove this unused import 'java.net.MalformedURLException'.(ªËŞˆ8¹«¬ìÆ/
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8º«¬ìÆ/
+P
+java:S1121".Extract the assignment out of this expression.(Ï‚áÿÿÿÿÿ8Ñ«¬ìÆ/
+P
+java:S1121".Extract the assignment out of this expression.(Ï‚áÿÿÿÿÿ8Ò«¬ìÆ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÍ¯âÿÿÿÿÿ8Ò«¬ìÆ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×”Ğ8î«¬ìÆ/

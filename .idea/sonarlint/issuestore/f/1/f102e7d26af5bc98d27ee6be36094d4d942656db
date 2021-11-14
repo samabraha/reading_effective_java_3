@@ -1,0 +1,16 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘
+Z
+java:S1854*"8Remove this useless assignment to local variable "exce".(”·Í¦şÿÿÿÿ8èù‹ŸÀ/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û±«²ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş½Îôùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‹Œ¾
+B
+java:S1181)"%Catch Exception instead of Throwable.(ëß‹™8¼şŠŸÀ/
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Î©î¥
+K
+java:S1481*")Remove this unused "exce" local variable.(”·Í¦şÿÿÿÿ8ôù‹ŸÀ/
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÉÔ ÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ÎªŸƒ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦¼5

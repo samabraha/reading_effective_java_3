@@ -1,0 +1,16 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¼ÍØşÿÿÿÿ
+^
+java:S1612"CReplace this lambda with method reference 'Anagrams::alphabetized'.(ıµúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²ÏØùüÿÿÿÿ
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÌÑÎíüÿÿÿÿ8˜¯ÓÜÁ/
+Q	java:S125,"<This block of commented-out lines of code should be removed.(î“Ø®
+W
+java:S1075-"ARefactor your code to get this URI from a customizable parameter.(§†›Ş
+Q	java:S125."<This block of commented-out lines of code should be removed.(¢ËÄ˜
+J
+java:S16117"4Remove the parentheses around the "unused" parameter(Ÿßÿé
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÏÄÌ«şÿÿÿÿ8·´îÜÁ/
+G
+java:S1128"%Remove this unused import 'java.nio'.(‚Æƒÿÿÿÿÿ8Ô«ïÜÁ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡øâûÿÿÿÿ

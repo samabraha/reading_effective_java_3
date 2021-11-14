@@ -1,0 +1,32 @@
+
+6
+java:S2326"T is not used in the class.(ŒÇÛíıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·µ“»ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å¢½©
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¤’¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş“è¤ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Ê¥ıÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(€Ç–ˆûÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(Îév
+N	java:S106."9Replace this use of System.out or System.err by a logger.(”ïŠ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ëû°¤úÿÿÿÿ
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Ë§ÌĞ8¶ß“¾¾/
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(íğ˜ùÿÿÿÿ
+P	java:S125F"<This block of commented-out lines of code should be removed.(µ™‡]
+a
+java:S1128"?Remove this unused import 'com.sun.source.doctree.SummaryTree'.(¹„´úÿÿÿÿ8€™™¾¾/
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»Çâ€8€™™¾¾/
+`
+java:S1128
+">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ8™™¾¾/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8™™¾¾/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8™™¾¾/
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8™™¾¾/
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¹„´úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å¢ƒéúÿÿÿÿ

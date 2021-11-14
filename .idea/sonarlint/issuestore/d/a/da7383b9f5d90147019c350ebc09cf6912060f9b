@@ -1,0 +1,24 @@
+
+V	java:S125	"<This block of commented-out lines of code should be removed.(ıšöıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¨ñ¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÒ¨ãúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡ë Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸäßŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç©¯Ãşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Ş–
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Î›£ú
+<
+java:S1170D"!Make this final field static too.(íí¢‘ıÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(üÄÖóùÿÿÿÿ
+h
+java:S2975H"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+=
+java:S1185H"(Remove this method to simply inherit it.(™”” 
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ê‘š
+h
+java:S2975X"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+=
+java:S1185X"(Remove this method to simply inherit it.(™”” 
+C
+java:S1185]"(Remove this method to simply inherit it.(ú›Šøøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŸ§üÿÿÿÿ

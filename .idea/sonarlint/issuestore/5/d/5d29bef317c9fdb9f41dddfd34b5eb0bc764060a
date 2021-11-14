@@ -1,0 +1,12 @@
+
+X	java:S125<"<This block of commented-out lines of code should be removed.(Ë„¢8„¨‘¿/
+]	java:S125>"<This block of commented-out lines of code should be removed.(˜ŸÖõøÿÿÿÿ8†¨‘¿/
+X	java:S125C"<This block of commented-out lines of code should be removed.(á¿¨Ÿ8¿æ‚¼¿/
+T	java:S106L"9Replace this use of System.out or System.err by a logger.(¿á÷.8‹¨‘¿/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ãæ‚¼¿/
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8Ãæ‚¼¿/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë›œ8—’‘¿/
+T
+java:S3655K"7Call "Optional#isPresent()" before accessing the value.(´â¡ı8›¨‘¿/
