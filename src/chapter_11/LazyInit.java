@@ -1,16 +1,32 @@
 package chapter_11;
 
-
-
 public class LazyInit {
+    public static void main(String[] args) {
+        FieldType field =
+    }
 }
 
-class FieldHolder {
-    public static final FieldType field = computeFieldValue();
 
-
-}
-
+/** Double-check idion */
 class FieldType {
-    private static FieldType getField() { return FieldHolder.field; }
+    private volatile FieldType field;
+
+    private FieldType getField() {
+        FieldType result = field;
+
+        if (result == null) {
+            synchronized (this) {
+                if (field == null) {
+                    result = computeFieldValue();
+                }
+            }
+        }
+        return result;
+    }
+
+    private FieldType computeFieldValue() {
+        return null;
+    }
+
+
 }
