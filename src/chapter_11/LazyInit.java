@@ -2,10 +2,9 @@ package chapter_11;
 
 public class LazyInit {
     public static void main(String[] args) {
-        FieldType field =
+
     }
 }
-
 
 /** Double-check idion */
 class FieldType {
@@ -27,6 +26,5 @@ class FieldType {
     private FieldType computeFieldValue() {
         return null;
     }
-
-
 }
+
